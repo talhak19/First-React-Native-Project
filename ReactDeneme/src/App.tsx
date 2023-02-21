@@ -4,7 +4,7 @@
 import { React ,useState, useEffect} from "react";
 import {TouchableHighlight,Alert, StyleSheet,SafeAreaView,Text,View,FlatList } from "react-native";
 
-import music_data from "./music-data.json";
+
 
 
 import ToDoHeader from "./Components/ToDo_header"
